@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WCFson2", "WCFson2\WCFson2.csproj", "{A045DCE2-1BD3-4D5E-96F0-071E2AFB2A74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{C5329985-7AD3-4793-819F-2392014A258D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{2C782EAC-BD80-4BAE-B293-6822703DC3F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A045DCE2-1BD3-4D5E-96F0-071E2AFB2A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A045DCE2-1BD3-4D5E-96F0-071E2AFB2A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A045DCE2-1BD3-4D5E-96F0-071E2AFB2A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A045DCE2-1BD3-4D5E-96F0-071E2AFB2A74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5329985-7AD3-4793-819F-2392014A258D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5329985-7AD3-4793-819F-2392014A258D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5329985-7AD3-4793-819F-2392014A258D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5329985-7AD3-4793-819F-2392014A258D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C782EAC-BD80-4BAE-B293-6822703DC3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C782EAC-BD80-4BAE-B293-6822703DC3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C782EAC-BD80-4BAE-B293-6822703DC3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C782EAC-BD80-4BAE-B293-6822703DC3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0EF816D-0FE5-4621-833E-C3359AC40B81}
+	EndGlobalSection
+EndGlobal
